@@ -1,9 +1,3 @@
-<%-- 
-    Document   : login3
-    Created on : Aug 21, 2012, 2:02:29 PM
-    Author     : sarun
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -20,8 +14,7 @@
                     thisCookie = allCookies[i];
                 }
             }
-        }
-        
+        }   
     %>
     <%
         if (thisCookie == null) { 

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : showCookie
-    Created on : Jul 24, 2011, 8:06:03 PM
-    Author     : sarun
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
    "http://www.w3.org/TR/html4/loose.dtd">
@@ -23,8 +17,6 @@
                 out.println(cookiesFromClient[i].getValue());
                 out.println("<br/>");
             }
-            
-            
         %>
     </body>
 </html>

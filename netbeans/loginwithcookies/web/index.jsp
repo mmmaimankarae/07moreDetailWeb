@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Aug 21, 2012, 1:03:41 PM
-    Author     : sarun
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -35,7 +29,6 @@
                 <input type="password" name="password" value="" size="20" />
                 <input type="submit" value="Enter System" name="submit" />
                 <br/>
-                
         </form>
     </body>
 </html>
